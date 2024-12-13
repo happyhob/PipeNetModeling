@@ -8,7 +8,7 @@
     TERMINAL>> "pip install ezdxf shapely geojson geopandas pandas pyproj"
 
   [설치 항목별 설명]
-  ezdxf: DXF 파일을 읽고 쓰는 데 사용.\n
+  ezdxf: DXF 파일을 읽고 쓰는 데 사용.
   shapely: 지리 데이터(geometry) 처리를 위한 라이브러리.
   geojson: GeoJSON 형식의 데이터를 읽고 쓰는 데 사용.
   geopandas: 지리 데이터를 다루는 Pandas 확장 라이브러리.
