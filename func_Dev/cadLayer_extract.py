@@ -112,7 +112,7 @@ def extract_all_layers_to_geojson(dwf_file, layer_list, output_geojson_path):
 # 레이어 리스트와 파일 경로
 layer_list = [
     'SBA001', 'SBA002', 'SBA003', 'SBA004', 'SBA900', 'SBA999',
-    'SBD001', 'SBD002', 'SBD003', 'SBD004', 'SB101', 'SB102', '제원', '하수제원'
+    'SBD001', 'SBD002', 'SBD003', 'SBD004', 'SB101', 'SB102', '제원', '하수제원', '관라벨'
 ]
 
 import os
